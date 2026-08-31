@@ -1,7 +1,7 @@
 # 🦅 DocNest — Intelligent On-Device Personal Document Hub
 
 <p align="center">
-  <img src="app/src/main/res/drawable/app_logo.png" alt="DocNest Logo" width="128" height="128" style="border-radius: 28px;" />
+  <img src="Applogo.png" alt="DocNest Logo" width="120" />
 </p>
 
 <p align="center">
@@ -89,18 +89,6 @@ DocNest is built using the latest industry standards for modern Android developm
 
 ---
 
-## 📱 Screenshots
-
-<p align="center">
-  <img src="screenshots/home_screen.png" width="30%" alt="Home Dashboard" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/viewer_screen.png" width="30%" alt="Swipeable PDF Viewer" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/settings_screen.png" width="30%" alt="Settings & App Lock" />
-</p>
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -149,10 +137,7 @@ DocNest includes a unit test suite covering document classification, regex parsi
 
 ## 👨‍💻 Creator & Lead Developer
 
-Created with passion by **Rehan Jakir Khan**.
-
-* 🐙 **GitHub:** [github.com/rehanjakirkhan](https://github.com/) *(Add your username)*
-* 💼 **LinkedIn:** [linkedin.com/in/rehanjakirkhan](https://linkedin.com/) *(Add your profile)*
+Developed by **Rehan Jakir Khan**.
 
 ---
 
